@@ -1,4 +1,5 @@
 <?
     echo "Helohellomaybfdfđfan";
+    echo""ok;
 ?>
-ooooooooooooooooooooooooooooo
+ooooooooooooooooooo
